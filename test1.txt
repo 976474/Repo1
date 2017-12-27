@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0074-A027
+
+ Directory of C:\Users\DOt.Softwares\Desktop\myproject
+
+12/27/2017  10:54 AM    <DIR>          .
+12/27/2017  10:54 AM    <DIR>          ..
+12/27/2017  10:54 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  24,576,069,632 bytes free
